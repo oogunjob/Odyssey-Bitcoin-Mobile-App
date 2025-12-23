@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets\images\icon.png" alt="Odyssey Logo" width="200" height="200">
+  <img src="icon.png" alt="Odyssey Logo" width="200" height="200">
 
   # Odyssey: Your Bitcoin Journey
 
