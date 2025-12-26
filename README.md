@@ -261,7 +261,7 @@ Ready to start your Bitcoin adventure? Download Odyssey today and begin your jou
 - **🐦 X (Twitter)**: [@hrznbtc](https://x.com/tosinxogunjobi)
 - **📸 Instagram**: [@hrznbtc](https://www.instagram.com/hrznbtc)
 - **🎵 TikTok**: [@hrznbtc](https://tiktok.com/@hrznbtc)
-- **💻 GitHub**: [Odyssey Resources](https://github.com/oogunjob/Odyssey-Resources)
+- **💻 GitHub**: [HRZN](https://github.com/HRZN-BTC)
 
 ---
 
