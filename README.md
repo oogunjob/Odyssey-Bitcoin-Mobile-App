@@ -210,6 +210,15 @@ Unlock the full Odyssey experience with Premium:
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/1.png" alt="Odyssey App Screenshot 1" width="300">
+  <img src="screenshots/2.png" alt="Odyssey App Screenshot 2" width="300">
+</div>
+
+---
+
 ## 🛠️ Built With Modern Technology
 
 Odyssey is built with cutting-edge technologies to deliver the best experience:
